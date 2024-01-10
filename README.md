@@ -8,7 +8,6 @@ This web application allows users to generate random passwords based on their ch
 - [Instructions](#instructions)
 - [Screenshots](#screenshots)
 - [How to Use](#how-to-use)
-- [License](#license)
 
 ## Features
 
@@ -24,13 +23,8 @@ This web application allows users to generate random passwords based on their ch
 
 ## Screenshots
 
-![Password Generator Demo](./screenshots/password-generator.png)
-![Password Generator Demo](./screenshots/password-generator.2.png)
-![Password Generator Demo](./screenshots/password-generator.3.png)
+![Password Generator Demo](./assets/password-generator.png)
+![Password Generator Demo](./assets/password-generator.2.png)
+![Password Generator Demo](./assets/password-generator.3.png)
 
 ## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/password-generator.git
