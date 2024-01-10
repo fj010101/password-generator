@@ -23,7 +23,7 @@ This web application allows users to generate random passwords based on their ch
 
 ## Screenshots
 ## How to Use
-LIVE DEMO: https://fj010101.github.io/password-generator/
+LIVE DEMO: (https://fj010101.github.io/password-generator/starter/index.html)
 ![Password Generator Demo](./assets/password-generator.2.png)
 ![Password Generator Demo](./assets/password-generator.png)
 ![Password Generator Demo](./assets/password-generator.3.png)
