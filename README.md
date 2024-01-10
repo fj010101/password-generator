@@ -22,9 +22,9 @@ This web application allows users to generate random passwords based on their ch
 3. Password is generated and displayed on the page.
 
 ## Screenshots
+## How to Use
 
-![Password Generator Demo](./assets/password-generator.png)
 ![Password Generator Demo](./assets/password-generator.2.png)
+![Password Generator Demo](./assets/password-generator.png)
 ![Password Generator Demo](./assets/password-generator.3.png)
 
-## How to Use
